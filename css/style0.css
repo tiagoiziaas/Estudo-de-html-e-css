@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+
+/* Estilo apra o conteodo */
+
+.artigo {
+    background-color: rgb(84, 168, 247);
+    height: auto;
+    width: 100%;
+    /*  margin: 40px auto;*/
+    text-align: center;
+}
+
+.artigo>h1 {
+    color: mediumvioletred;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.artigo>p {
+    margin-top: 12px;
+    color: lightslategray;
+    font-size: 17px;
+    font-family: tahoma;
+    font-style: normal;
+    line-height: 30px;
+    font-weight: bold;
+}

@@ -1,0 +1,48 @@
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    html,
+    body {
+        height: 100%;
+    }
+    
+    body {
+        background-color: grey;
+        background-image: url(https://images8.alphacoders.com/632/thumb-1920-632051.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: scroll
+    }
+    
+    .menu {
+        width: auto;
+        padding: 5px;
+        height: 50px;
+        background-color: #00008B;
+        opacity: 0.6;
+        border-bottom: black 4px solid;
+    }
+    
+    .menu>a {
+        text-decoration: none;
+        font-size: 20px;
+        color: #87CEFF;
+        font-style: italic;
+        font-family: cursive;
+        font-weight: bolder;
+        margin-right: 8px;
+        letter-spacing: 5px;
+    }
+    
+    .conteudo {
+        width: 50%;
+        background-color: #F5F5DC;
+        text-align: center;
+        margin: auto;
+    }
+    
+    .conteudo>p {
+        margin-top: 10px;
+    }

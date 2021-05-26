@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+
+/* a[href="www.google.com"] {
+    background-color: yellow;
+}
+[href]{
+    background-color: red;
+}
+*/
+
+a[href*="google"] {
+    background-color: blue;
+}

@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+
+/*
+ul {
+    list-style-position: inside;
+}
+/*
+ul li:nth-of-type(2){ ataque o segundo ITEM
+    color: aqua
+}*/
+
+
+/*ul li:nth-child(3){ ele ataca os filhos
+    color: red
+}*/
+
+.box {
+    width: 100%;
+}
+
+div {
+    float: left;
+    width: 33.3%;
+    box-sizing: border-box;
+    height: 400px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+
+/*
+
+.box div:last-of-type {
+    /* para pegar somente o ultimo item
+    background-color: green;
+}*/
+
+
+/*div :last-of-type p{
+    color: pink;
+}*/
+
+
+/* Negação aplique o estilo para todas as divs que NAO tenha a classe .um
+.box div:not(.um) {
+    background-color: pink;
+}*/
+
+
+/* pega todos os paragrafos que estao vazios que aplique uma cor
+.box div>p:empty {
+    width: 400px;
+    height: 300px;
+    background-color: paleturquoise
+}*/

@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.teste,
+.teste1,
+.teste2,
+.teste3 {
+    width: 300px;
+    display: inline-block;
+    height: 300px;
+    background-color: aqua;
+}

@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.teste,
+.teste1,
+.teste2 {
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 300px;
+    display: inline-block;
+    /*
+    background-color: blue;
+*/
+}
+
+
+/*.teste:hover {
+     aplicando : e o hover e pra quando voce passar o mouse em cima ele vai ter uma alteração 
+    background-image: url(../imagens/971.jpg);
+    background-position: center;
+    background-size: cover;
+}*/
+
+
+/*.teste:active {
+    aplicando o active quando precionar o botão esquerdo do mouse, ele vai ativar a propriedade
+    background-color: black;
+}*/
+
+
+/*.teste:focus {
+    aplicando o focus serve para quando der um unico click ele altera (somente com formularios)
+    background-color: red;
+}*/
+
+
+/*
+.teste1 {
+    background-color: aqua;
+}
+
+.teste2 {
+    background-color: rebeccapurple;
+}*/
+
+
+/*.link1:visited {
+    visited e para quando o link for visitado ele vai alterar a cor
+    color: red;
+}*/
+
+
+/*.link1:link{
+    e para alterar a cor do link
+    color:aqua
+}*/

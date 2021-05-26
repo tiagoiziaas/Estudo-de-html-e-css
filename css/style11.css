@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+
+/*
+
+.box {
+    width: 100%;
+    height: 100%;
+    background-image: url(https://i.gifer.com/TsOG.gif);
+    background-size: cover;
+}
+
+form {
+    width: 69%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form fieldset {
+    padding: 20px 50px;
+    border: 3px solid white;
+}
+
+form legend {
+    font-size: 30px;
+    color: red;
+}
+
+form input[type=text] {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    margin-top: 30px;
+    width: 80%;
+    padding: 10px 13px;
+}
+
+form input[type=text]:hover {
+    outline: 0;
+    border: 0;
+}
+
+form input[type=text]:focus,
+form textarea:focus {
+    background-color: black;
+}
+
+form select {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: calc(80% + 26px);
+    margin-top: 30px;
+    padding: 10px 13px;
+    display: inline-block;
+    border: 1px solid black
+}
+
+form select:hover {
+    outline: 0;
+    border: 0;
+}
+
+form h2 {
+    margin-top: 30px;
+    color: red;
+}
+
+.input {
+    color: white;
+    text-align: left;
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.input span {
+    margin-left: 13px;
+    font-size: 16px;
+}
+
+
+/*
+form select option:nth-of-type(3) {
+    color: red
+}
+
+form input[type=submit] {
+    width: 140px;
+    height: 40px;
+    margin-top: 30px;
+    border: 0;
+    font-size: 14px;
+    cursor: pointer;
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+}
+
+form textarea {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+    padding: 10px 13px;
+    height: 45px;
+    resize: none;
+    color: white;
+    border: 1px solid #ccc;
+
+}*/

@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+    font-family: 'Dancing Script';
+}
+
+form>* {
+    font-family: 'Dancing Script';
+}
+
+
+/*
+h2 {
+    font-family: 'Dancing Script', handwriting;
+}*/
+
+
+/* para o nivel de expecificação por maior colocamos o !important*/
